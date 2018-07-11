@@ -1,6 +1,6 @@
 https://twitteroauth.com/
 https://github.com/abraham/twitteroauth/releases
-
+# This app is just a demo sample for know how the app is used. May requires some tweak further
 # This app uses Twitter App: Used "LoginAndTweet_ISN" APP on my twitter account. https://apps.twitter.com/
 Step 1: Download and create a folder "twitter-app" and paste all this files
 Step 2: Run composer, i.e. composer update. 
