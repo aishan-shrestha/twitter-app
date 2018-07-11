@@ -4,9 +4,6 @@
 require_once('vendor/autoload.php');
 use Abraham\TwitterOAuth\TwitterOAuth;
 
-// require_once('twitteroauth/autoload.php');
-// use Abraham\TwitterOAuth\TwitterOAuth;
-
 session_start();
 
 if( isset($_GET["pid"]) ) {
