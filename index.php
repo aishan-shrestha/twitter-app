@@ -14,7 +14,6 @@ $(document).ready(function() {
     function OnLeave(){$(this).fadeTo("fast", 0.70);}
 });
 </script>
-<link href="style.css" rel="stylesheet" type="text/css" />
 </head>
 
 <body>
