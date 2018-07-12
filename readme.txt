@@ -1,7 +1,7 @@
 https://twitteroauth.com/
 https://github.com/abraham/twitteroauth/releases
 # This app is just a demo sample for know how the app is used. May requires some tweak further
-# This app uses Twitter App: Used "LoginAndTweet_ISN" APP on my twitter account. https://apps.twitter.com/
+# https://apps.twitter.com/
 Step 1: Download these files
 Step 2: Run composer, i.e. composer update. 
 Step 3: Create a folder "cover_pics" and add few images with names (see on index.php)
