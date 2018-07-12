@@ -10,7 +10,7 @@ return [
     'oauth_access_token_secret' => "your_oauth_access_token_secret",
 
     // callbacks for your application
-    'url_login'         => '<path_to_your_domain>twitter-app/twitter_login.php',
+    'url_login'         => '<path_to_your_domain>/twitter-app/twitter_login.php',
     'url_callback'      => '<path_to_your_domain>/twitter-app/twitter_callback.php',
 
 ];
